@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "complete_advance_course",
+            "cwd": "complete_advance_course",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "complete_advance_course (profile mode)",
+            "cwd": "complete_advance_course",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "complete_advance_course (release mode)",
+            "cwd": "complete_advance_course",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "presentation_layer",
+            "cwd": "presentation_layer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "presentation_layer (profile mode)",
+            "cwd": "presentation_layer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "presentation_layer (release mode)",
+            "cwd": "presentation_layer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

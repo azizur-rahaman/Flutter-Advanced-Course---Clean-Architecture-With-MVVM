@@ -5,6 +5,11 @@ class OnBoardView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Text(
+        "I am here",
+        style: TextStyle(fontSize: 60),
+      ),
+    );
   }
 }
