@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:complete_advance_course/presentation/base/base_view_moderl.dart';
 import 'package:complete_advance_course/presentation/onboarding/onboarding.dart';
 
-import '../../domain/model.dart';
+import '../../domain/model/model.dart';
 import '../resources/app_string.dart';
 import '../resources/assets_manager.dart';
 

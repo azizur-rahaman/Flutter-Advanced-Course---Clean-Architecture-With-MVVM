@@ -5,7 +5,7 @@ import 'package:complete_advance_course/presentation/onboarding/onboarding.dart'
 import 'package:complete_advance_course/presentation/register/register.dart';
 import 'package:complete_advance_course/presentation/resources/app_string.dart';
 import 'package:complete_advance_course/presentation/splash/splash.dart';
-import 'package:complete_advance_course/presentation/store_details/store_details..dart';
+import 'package:complete_advance_course/presentation/store_details/store_details.dart';
 import 'package:flutter/material.dart';
 
 class Routes {
