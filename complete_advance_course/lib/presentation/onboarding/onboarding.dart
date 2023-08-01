@@ -77,6 +77,7 @@ class _OnBoardViewState extends State<OnBoardView> {
                         textAlign: TextAlign.end,
                         style: Theme.of(context).textTheme.titleSmall,
                       ))),
+              // add layout for indicator arrows
               _getBottomSheetWidgets(sliderViewObject),
             ],
           ),
